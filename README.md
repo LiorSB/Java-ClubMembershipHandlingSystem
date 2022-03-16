@@ -36,3 +36,7 @@ Dletete Clubber button example:
 ![image](https://user-images.githubusercontent.com/92099051/158694125-dee76494-2b0f-4373-82a3-17fdb0c7b03d.png)
 
 ![image](https://user-images.githubusercontent.com/92099051/158694130-6ffc2eff-c1ae-45ca-9399-816aff702e23.png)
+
+Index Page from Doc:
+
+![image](https://user-images.githubusercontent.com/92099051/158695550-af166c56-c6e8-4320-ac81-37fd989f266e.png)
